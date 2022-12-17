@@ -1,4 +1,4 @@
-## Hi there! I'm Aline 👋
+## Hi there! I'm Aline 👩🏻‍💻
 
 🌱 I’m currently focusing on Web Development Technologies. I'm excited with programming and I'm learning it everyday. My preferred languages are JavaScript and Golang.
 
