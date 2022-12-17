@@ -1,9 +1,14 @@
-### Hi there 👋
+## Hi there! I'm Aline 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alinesresende&theme=default)](https://github.com/alinesresende/github-readme-stats)
+🌱 I’m currently focusing on Web Development Technologies. I'm excited with programming and I'm learning it everyday. My preferred languages are JavaScript and Golang.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alinesresende)](https://github.com/alinesresende/github-readme-stats)
+💻 Front-end technologies: Javascript - ES6+ | ReactJS | Design System, UI/UX | Unit Tesing - Jest, CyPress | CSS3, Bootstrap | HTML5
 
+📚⏳ Back-end technologies: Golang
+
+
+  <a href="https://www.linkedin.com/in/aline-sresende/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /> 
+  <a href = "mailto:alinesresende14@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
 
 <!--
 **alinesresende/alinesresende** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
