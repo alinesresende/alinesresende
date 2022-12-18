@@ -3,7 +3,7 @@
 
 🌱 I’m currently focusing on Web Development Technologies. I'm excited with programming and I'm learning it everyday. My preferred languages are JavaScript and Golang.
 
-💻 Front-end technologies: JavaScript - ES6+ | ReactJS | Design System, UI/UX | Unit Tesing - Jest, CyPress | CSS3, Bootstrap | HTML5 | Git
+💻 Front-end technologies: JavaScript - ES6+ | ReactJS | Design System, UI/UX Design | Unit Tesing - Jest, CyPress | CSS3, Bootstrap | HTML5 | Git
 
 📚⏳ Back-end technologies: Golang
   <br>
