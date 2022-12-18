@@ -3,7 +3,7 @@
 
 🌱 I’m currently focusing on Web Development Technologies. I'm excited with programming and I'm learning it everyday. My preferred languages are JavaScript and Golang.
 
-💻 Front-end technologies: JavaScript - ES6+ | ReactJS | Design System, UI/UX Design | Unit Tesing - Jest, CyPress | CSS3, Bootstrap | HTML5 | Git
+💻 Front-end technologies: JavaScript - ES6+ | ReactJS | Design System, UI/UX Design | Unit Tesing - Jest, CyPress | CSS3, Bootstrap, Tailwind | HTML5 | Git
 
 📚⏳ Back-end technologies: Golang
   <br>
@@ -15,6 +15,7 @@
   <img align="center" alt="Aline-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Aline-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Aline-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
+  <img align="center" alt="Aline-Tailwind" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
   <img align="center" alt="Aline-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
   </div>
     
