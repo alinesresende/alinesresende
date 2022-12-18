@@ -1,11 +1,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandre-anicio/)](https://www.linkedin.com/in/aline-sresende/)
 ## Hi there! I'm Aline 👩🏻‍💻
 
-🌱 I’m currently focusing on Web Development Technologies. I'm excited with programming and I'm learning it everyday. My preferred languages are JavaScript and Golang.
+▪️ I’m currently focusing on Web Development Technologies. I'm excited with programming and I'm learning it everyday. My preferred languages are JavaScript and Golang.
 
-💻 Front-end technologies: JavaScript - ES6+ | ReactJS | Design System, UI/UX Design | Unit Tesing - Jest, CyPress | CSS3, Bootstrap, Tailwind | HTML5 | Git
+▪️ Front-end technologies: JavaScript - ES6+ | ReactJS | Design System, UI/UX Design | Unit Tesing - Jest, CyPress | CSS3, Bootstrap, Tailwind | HTML5 | Git
 
-📚⏳ Back-end technologies: Golang
+▪️⏳ Back-end technologies: Golang
   <br>
   <br>
   <div style="display: flex; justify-content: center; width: 100%">
