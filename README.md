@@ -5,7 +5,7 @@
 
 :black_small_square: Front-end technologies: JavaScript - ES6+ | ReactJS | Design System, UI/UX Design | Unit Tesing - Jest, CyPress | CSS3, Bootstrap, Tailwind | HTML5 | Git
 
-:black_small_square:⏳ Back-end technologies: Golang
+:black_small_square: Back-end technologies: Golang
   <br>
   <br>
   <div style="display: flex; justify-content: center; width: 100%">
