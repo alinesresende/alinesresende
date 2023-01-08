@@ -1,13 +1,13 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandre-anicio/)](https://www.linkedin.com/in/aline-sresende/)
 ## Hi there! I'm Aline 👩🏻‍💻
 
-:black_small_square: I’m currently focusing on Web Development Technologies. I'm excited with programming and I'm learning it every day. 
+* I’m currently focusing on Web Development Technologies. I'm excited with programming and I'm learning it every day. 
 
-:black_small_square: At the moment I'm developing projects with JavaScript and Golang.
+* At the moment I'm developing projects with JavaScript and Golang.
 
-:black_small_square: Front-end technologies: JavaScript - ES6+ | ReactJS | Design System, UI/UX Design | Unit Tesing - Jest, CyPress | CSS3, Bootstrap, Tailwind | HTML5 | Git | Figma
+* Front-end technologies: JavaScript - ES6+ | ReactJS | Design System, UI/UX Design | Unit Tesing - Jest, CyPress | CSS3, Bootstrap, Tailwind | HTML5 | Git | Figma
 
-:black_small_square: Back-end technologies: Golang | Database - MySQL
+* Back-end technologies: Golang | Database - MySQL
   <br>
   <br>
   <div style="display: flex; justify-content: center; width: 100%">
