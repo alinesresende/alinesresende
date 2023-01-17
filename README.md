@@ -1,7 +1,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandre-anicio/)](https://www.linkedin.com/in/aline-sresende/)
 ## Hi there! I'm Aline 👩🏻‍💻
 
-* I’m currently focusing on Web Development Technologies. I'm excited with programming and I'm learning it every day. 
+* I’m currently focusing on Web Development Technologies. 
 
 * At the moment I'm developing projects with JavaScript and Golang.
 
