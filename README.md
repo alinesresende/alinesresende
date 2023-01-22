@@ -5,7 +5,7 @@
 
 * At the moment I'm developing projects with JavaScript and Golang.
 
-* Front-end technologies: JavaScript - ES6+ | ReactJS | Design System, UI/UX Design | Unit Tesing - Jest, CyPress | CSS3, Bootstrap, Tailwind | HTML5 | Git | Figma
+* Front-end technologies: JavaScript - ES6+ | React | Design System, UI/UX Design | Unit Tesing - Jest, CyPress | CSS3, Bootstrap, Tailwind | HTML5 | Git | Figma
 
 * Back-end technologies: Golang | Python | Database - MySQL 
   <br>
