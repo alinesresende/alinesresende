@@ -3,7 +3,7 @@
 
 * I’m currently focusing on Development Technologies. 
 
-* At the moment I'm developing projects with JavaScript and Golang.
+* At the moment I'm developing projects with JavaScript using the framework React and Golang.
 
 * Front-end technologies: JavaScript - ES6+ | React | Design System, UI/UX Design | Unit Tesing - Jest, CyPress | CSS3, Bootstrap, Tailwind | HTML5 | Git | Figma
 
