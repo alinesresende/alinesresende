@@ -5,9 +5,9 @@
 
 * At the moment I'm developing projects with JavaScript using the framework React and Golang.
 
-* **Front-end technologies**: JavaScript - ES6+ | React | Redux | Design System, UI/UX Design | Unit Tesing - Jest, React Testing Library, CyPress | CSS3, Bootstrap, Tailwind | HTML5 | Git | Figma
+* Front-end technologies: JavaScript - ES6+ | React | Redux | Content API | Design System, UI/UX Design | Unit Tesing - Jest, React Testing Library, CyPress | CSS3, Bootstrap, Tailwind | HTML5 | Git | Figma
 
-* **Back-end technologies**: Golang | Python | Database - MySQL 
+* Back-end technologies: Golang | Python | Database - MySQL 
   <br>
   <br>
   <div style="display: flex; justify-content: center; width: 100%">
