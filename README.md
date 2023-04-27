@@ -7,7 +7,7 @@
 
 * Front-end technologies: JavaScript - ES6+ | TypeScript | React | Redux | Context API | Design System, UI/UX Design | Unit Tesing - Jest, React Testing Library, CyPress | CSS3, Bootstrap, Tailwind | HTML5 | Git | Figma
 
-* Back-end technologies: Golang | Python | MySQL 
+* Back-end technologies: Golang | Python | MySQL | Docker
   <br>
   <br>
   <div style="display: flex; justify-content: center; width: 100%">
