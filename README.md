@@ -9,7 +9,7 @@ At the moment I'm developing projects with TypeScript using the framework React.
 
 Front-end technologies: JavaScript - ES6+ | TypeScript | React | Redux | Context API | Design System, UI/UX Design | Unit Tesing - Jest, React Testing Library, CyPress | CSS3, Bootstrap, Tailwind | HTML5 | Git | Figma
 
-Back-end technologies: Node.js | Golang | Python | MySQL | Docker 
+Back-end technologies: NodeJS | Golang | Python | SQL (MySQL) | Docker 
   <br>
   <br>
   <div style="display: flex; justify-content: center; width: 100%">
