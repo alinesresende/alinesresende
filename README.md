@@ -1,13 +1,15 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandre-anicio/)](https://www.linkedin.com/in/aline-sresende/)
 ## Hi there! I'm Aline 👩🏻‍💻
 
-* I’m currently focusing on Development Technologies. 
+I live in Brazil, Minas Gerais.
 
-* At the moment I'm developing projects with JavaScript using the framework React and Golang.
+I’m currently focusing on Web Development Technologies. 
 
-* Front-end technologies: JavaScript - ES6+ | TypeScript | React | Redux | Context API | Design System, UI/UX Design | Unit Tesing - Jest, React Testing Library, CyPress | CSS3, Bootstrap, Tailwind | HTML5 | Git | Figma
+At the moment I'm developing projects with TypeScript using the framework React.
 
-* Back-end technologies: Golang | Python | MySQL | Docker
+Front-end technologies: JavaScript - ES6+ | TypeScript | React | Redux | Context API | Design System, UI/UX Design | Unit Tesing - Jest, React Testing Library, CyPress | CSS3, Bootstrap, Tailwind | HTML5 | Git | Figma
+
+Back-end technologies: Node.js | Golang | Python | MySQL | Docker 
   <br>
   <br>
   <div style="display: flex; justify-content: center; width: 100%">
