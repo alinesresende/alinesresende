@@ -3,7 +3,7 @@
 
 I live in Brazil, Minas Gerais.
 
-I'm a software developer, passionate about technology, innovation and board games.
+I'm a software developer, passionate about technology and innovation.
 
 At the moment I'm developing projects with TypeScript using the framework React.
 
