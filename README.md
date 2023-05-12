@@ -9,7 +9,7 @@ At the moment I'm developing projects with TypeScript using the framework React.
 
 Front-end technologies: JavaScript - ES6+ | TypeScript | React | Redux | Context API | Design System | Unit Tesing - Jest, React Testing Library, CyPress | CSS3, Bootstrap, Tailwind | HTML5 | Git | Figma
 
-Back-end technologies: NodeJS | Golang | Python | SQL (MySQL) | Docker 
+Back-end technologies: NodeJS - Express | Golang | Python | SQL (MySQL) | Docker 
 
 UX|UI Designer with experience in mobile interfaces, desktop and systems, using Figma as the principal tool.
   <br>
