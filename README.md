@@ -12,7 +12,6 @@ Front-end technologies: JavaScript - ES6+ | TypeScript | React | Redux | Context
 Back-end technologies: NodeJS - Express | API’s Rest | Golang | Python | SQL (MySQL) | Docker |
 
 UX|UI Designer with skills in mobile, desktop and systems interfaces, using Figma as the main tool.
-
   <br>
   <br>
   <div style="display: flex; justify-content: center; width: 100%">
