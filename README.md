@@ -5,7 +5,7 @@ I live in Brazil, Minas Gerais.
 
 I'm a software developer, passionate about technology and innovation.
 
-At the moment I'm developing projects with TypeScript using the framework React and learnig Golang.
+At the moment I'm learnig Golang and developing projects with TypeScript using the framework React.
 
 Front-end technologies: JavaScript - ES6+ | TypeScript | React | Redux | Context API | Next.js | Design System | Unit Tesing - Jest, React Testing Library, CyPress | CSS3, Bootstrap, Tailwind | HTML5 | Git | 
 
