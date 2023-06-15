@@ -9,7 +9,7 @@ At the moment I'm learning Golang and developing projects with TypeScript using 
 
 Front-end technologies: JavaScript - ES6+ | TypeScript | React | Next.js | Redux | Context API | Design System | Unit Tesing - Jest, React Testing Library, CyPress | CSS3, Bootstrap, Tailwind | HTML5 | Git | 
 
-Back-end technologies: NodeJS - Express | API’s Rest | Sequelize | Golang | Python | SQL (MySQL) | Docker |
+Back-end technologies: NodeJS - Express | JWT | API’s Rest | Sequelize | Golang | Python | SQL (MySQL) | Docker |
 
 UX|UI Designer with skills in mobile, desktop and systems interfaces, using Figma as the main tool.
   <br>
