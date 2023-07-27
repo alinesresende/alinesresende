@@ -7,11 +7,27 @@ I'm a software developer, passionate about technology and innovation.
 
 At the moment I'm learning Java e Golang and developing projects with TypeScript.
 
-Front-end technologies: JavaScript - ES6+ | TypeScript | React | Next.js | Redux | Context API | Design System | Unit Tesing - Jest, React Testing Library, CyPress | CSS3, Bootstrap, Tailwind | HTML5 | Git | 
+**Front-end technologies**: 
 
-Back-end technologies: NodeJS - Express | JWT | API’s Rest | Sequelize | Golang | MySQL | Software architecture (MSC, SOLID, REST) | Test - Mocha, Chai e Sinon | Docker |
+  - JavaScript - ES6+ | TypeScript 
+  - React | Next.js | Redux | Context API 
+  - Design System | Unit Tesing - Jest, React Testing Library, CyPress 
+  - CSS3, Bootstrap, Tailwind | HTML5 
 
-UX|UI Designer with skills in mobile, desktop and systems interfaces, using Figma as the main tool.
+**Back-end technologies**: 
+
+  - NodeJS - Express | JWT | API’s Rest 
+  - Sequelize | Golang | MySQL 
+  - Software architecture (MSC, SOLID, REST) 
+  -  Testing - Mocha, Chai e Sinon 
+
+**Development Infrastructure**: 
+
+  - Git | Docker 
+
+**UX|UI Designer**:
+
+  - I'm also a UX|UI Designer with skills in mobile, desktop, and systems interfaces, using Figma as the main tool.
   <br>
   <br>
   <div style="display: flex; justify-content: center; width: 100%">
