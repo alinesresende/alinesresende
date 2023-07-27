@@ -29,7 +29,6 @@ At the moment I'm learning Java e Golang and developing projects with TypeScript
 
   - I'm also a UX|UI Designer with skills in mobile, desktop, and systems interfaces, using Figma as the main tool.
   <br>
-  <br>
   <div style="display: flex; justify-content: center; width: 100%">
   <img align="center" alt="Aline-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Aline-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
