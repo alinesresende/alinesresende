@@ -18,7 +18,7 @@ At the moment I'm learning Java e Golang and developing projects with TypeScript
 
   - NodeJS - Express | Golang  
   - Sequelize | JWT | API’s Rest | SQL (MySQL) 
-  - Software architecture (MSC, SOLID, REST) 
+  - Software Architecture (MSC, SOLID, REST) 
   - Testing - Mocha, Chai e Sinon 
 
 **Development Infrastructure**: 
