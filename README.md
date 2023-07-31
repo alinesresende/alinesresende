@@ -10,9 +10,9 @@ At the moment I'm learning Java e Golang and developing projects with TypeScript
 **Front-end technologies**: 
 
   - JavaScript - ES6+ | TypeScript 
-  - React | Next.js | Redux | Context API 
-  - Design System | Testing - Jest, React Testing Library, CyPress 
-  - CSS3, Bootstrap, Tailwind | HTML5 
+  - React | Next.js | Redux | Context API
+  - Design System | CSS3, Bootstrap, Tailwind | HTML5 
+  - Testing - Jest, React Testing Library, CyPress 
 
 **Back-end technologies**: 
 
