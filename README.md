@@ -9,7 +9,7 @@ I live in Brazil, Minas Gerais.
 
 I'm a software developer, passionate about technology and innovation.
 
-At the moment I'm learning Java, Golang and developing projects with TypeScript.
+At the moment I'm learning Java, iOS Switf and developing projects with TypeScript.
 
 **Front-end technologies**: 
 
