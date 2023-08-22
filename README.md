@@ -7,7 +7,9 @@
 
 I live in Brazil, Minas Gerais.
 
-I'm a software developer, passionate about technology and innovation. At the moment I'm learning Java and developing projects with TypeScript.
+I'm a software developer, passionate about technology and innovation. 
+
+I'm currently learning Java and developing applications with TypeScript using React.
 
 **Front-end technologies**: 
 
