@@ -3,9 +3,9 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="20" width="75" />
 </a>
 
-## Hi there! I'm Aline 👩🏻‍💻
+## About me 👩🏻‍💻
 
-I live in Brazil, Minas Gerais.
+Hey there! I’m Aline Resende, 27 years old, currently living in Brazil, Minas Gerais.
 
 I'm a software developer, passionate about technology and innovation. 
 
