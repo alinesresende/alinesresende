@@ -5,7 +5,7 @@
 
 ## About me 👩🏻‍💻
 
-Hey there! I’m Aline Resende, 27 years old, currently living in Brazil, Minas Gerais.
+Hi there! I’m Aline Resende, 27 years old, currently living in Brazil, Minas Gerais.
 
 I'm a software developer, passionate about technology and innovation. 
 
