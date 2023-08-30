@@ -23,7 +23,11 @@ I'm currently learning Java and developing applications with TypeScript using Re
   - NodeJS - Express | Golang | Python
   - Sequelize | JWT | API’s Rest | SQL (MySQL) 
   - Software Architecture (MSC, POO, SOLID, REST) 
-  - Testing - Mocha, Chai e Sinon 
+  - Testing - Mocha, Chai e Sinon
+    
+**Mobile technologies**: 
+
+  - iOS Development with Swift
 
 **Development Infrastructure**: 
 
